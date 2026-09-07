@@ -2,7 +2,11 @@
 
 <h1>Chahi Patel</h1>
 
+---
+
 ### Data Science & AI/ML Developer
+
+---
 
 <p>
   <a href="https://www.linkedin.com/in/chahi-patel-664528303">
@@ -38,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
+---
+
 ### 🤖 AI / ML
 
 <p>
@@ -51,6 +57,8 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
+---
+
 ### 📊 Data & Analytics
 
 <p>
@@ -58,13 +66,12 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
+---
+
 ### 🧠 Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -72,6 +79,8 @@
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+
+---
 
 ### 🛠️ Tools
 
