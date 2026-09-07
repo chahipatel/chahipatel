@@ -4,7 +4,7 @@
 
 ### Data Science & AI/ML Developer
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/chahi-patel-664528303">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -34,15 +34,13 @@
 
 ### 🐍 Programming Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
----
-
 ### 🤖 AI / ML
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FFB000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -53,8 +51,6 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
 ### 📊 Data & Analytics
 
 <p align="center">
@@ -62,11 +58,9 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
----
-
 ### 🧠 Frameworks & Libraries
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
 </p>
 
@@ -79,11 +73,11 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
-
 ### 🛠️ Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
+
+---
