@@ -2,11 +2,8 @@
 
 <h1>Chahi Patel</h1>
 
----
-
 ### Data Science & AI/ML Developer
 
----
 
 <p>
   <a href="https://www.linkedin.com/in/chahi-patel-664528303">
