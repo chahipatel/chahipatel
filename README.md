@@ -1,5 +1,5 @@
 <div align="center">
-<img src="C:\Users\Chahi\OneDrive\Desktop\chahiai.jpeg" width="80%"/>
+<img src="chahiai.jpeg" width="80%"/>
 
 
 <h1>Chahi Patel</h1>
