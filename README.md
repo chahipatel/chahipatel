@@ -1,4 +1,6 @@
-# Chahi Patel
+<div align="center">
+
+<h1>Chahi Patel</h1>
 
 ### Data Science & AI/ML Developer
 
@@ -13,6 +15,8 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -30,17 +34,15 @@
 
 ### 🐍 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
-
-**Python · JavaScript**
 
 ---
 
 ### 🤖 AI / ML
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FFB000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -51,28 +53,24 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-**Machine Learning · Deep Learning · Generative AI · Large Language Models (LLMs) · Retrieval-Augmented Generation (RAG) · Agentic AI · Natural Language Processing (NLP) · Prompt Engineering**
-
 ---
 
 ### 📊 Data & Analytics
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
-**SQL · Excel**
 
 ---
 
 ### 🧠 Frameworks & Libraries
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -81,15 +79,11 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-**TensorFlow · Keras · Scikit-learn · LangChain · Pandas · NumPy · ChromaDB · Hugging Face**
-
 ---
 
 ### 🛠️ Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
-
-**GitHub · VS Code · Google Colab · Postman**
