@@ -1,5 +1,5 @@
 <div align="center">
-<img src="chahiai.jpeg" width="30%" height="300"/>
+<img src="chahiai.jpeg" width="50%" height="500"/>
 
 
 <h1>Chahi Patel</h1>
