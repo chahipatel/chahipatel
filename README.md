@@ -89,6 +89,7 @@
 </p>
 
 ---
+
 ---
 
 ## 🏅 Certifications & Achievements
@@ -98,7 +99,7 @@
 
 <td align="center" width="33%">
 
-<img src="TATA_DIRECT_LOGO_IMAGE_URL" width="140" height="80"/>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Tata_logo.svg" width="140" height="100"/>
 
 <br><br>
 
@@ -108,7 +109,7 @@
 
 <td align="center" width="33%">
 
-<img src="EAB_DIRECT_LOGO_IMAGE_URL" width="140" height="80"/>
+<img src="https://pages.eab.com/wp-content/uploads/2024/02/eab-logo-small.png" width="140" height="100"/>
 
 <br><br>
 
@@ -118,7 +119,7 @@
 
 <td align="center" width="33%">
 
-<img src="DELOITTE_DIRECT_LOGO_IMAGE_URL" width="140" height="80"/>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_of_Deloitte.svg" width="140" height="100"/>
 
 <br><br>
 
