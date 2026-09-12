@@ -103,7 +103,7 @@
 
 <br><br>
 
-<b>Artificial Intelligence & Machine Learning</b>
+<b>Cyber Security</b>
 
 </td>
 
@@ -112,7 +112,7 @@
 <img src="https://eab.com/wp-content/uploads/2024/02/EAB-Logo.png" width="140" height="80"/>
 <br><br>
 
-<b>Artificial Intelligence & Machine Learning</b>
+<b>Generative Ai</b>
 
 </td>
 
@@ -122,7 +122,7 @@
 
 <br><br>
 
-<b>Artificial Intelligence & Machine Learning</b>
+<b>Data Analytics</b>
 
 </td>
 
