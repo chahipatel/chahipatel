@@ -98,7 +98,7 @@
 
 <td align="center" width="33%">
 
-<img src="./certificates/tata.png" width="100"/>
+<img src="TATA_DIRECT_LOGO_IMAGE_URL" width="140" height="80"/>
 
 <br><br>
 
@@ -108,7 +108,7 @@
 
 <td align="center" width="33%">
 
-<img src="./certificates/eab.png" width="100"/>
+<img src="EAB_DIRECT_LOGO_IMAGE_URL" width="140" height="80"/>
 
 <br><br>
 
@@ -118,7 +118,7 @@
 
 <td align="center" width="33%">
 
-<img src="./certificates/deloitte.png" width="100"/>
+<img src="DELOITTE_DIRECT_LOGO_IMAGE_URL" width="140" height="80"/>
 
 <br><br>
 
