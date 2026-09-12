@@ -109,8 +109,7 @@
 
 <td align="center" width="33%">
 
-<img src="https://pages.eab.com/wp-content/uploads/2024/02/eab-logo-small.png" width="140" height="100"/>
-
+<img src="https://eab.com/wp-content/uploads/2024/02/EAB-Logo.png" width="140" height="80"/>
 <br><br>
 
 <b>Artificial Intelligence & Machine Learning</b>
