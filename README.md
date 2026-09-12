@@ -89,3 +89,44 @@
 </p>
 
 ---
+---
+
+## 🏅 Certifications & Achievements
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<img src="./certificates/tata.png" width="100"/>
+
+<br><br>
+
+<b>Artificial Intelligence & Machine Learning</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="./certificates/eab.png" width="100"/>
+
+<br><br>
+
+<b>Artificial Intelligence & Machine Learning</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="./certificates/deloitte.png" width="100"/>
+
+<br><br>
+
+<b>Artificial Intelligence & Machine Learning</b>
+
+</td>
+
+</tr>
+</table>
+
+---
